@@ -20,4 +20,4 @@ I developed better teamwork skills to solve problems collaboratively. My skills 
 The assigned project helped me bridge theoretical concepts with practical applications. It gave me a clearer understanding of how projects are developed and managed.
 
 ## Conclusion
-The knowledge and skills I gained are meaningful and essential for my study and future career in this field. This course has enhanced my **software engineering** skills and expanded my knowledge and understanding of various aspects of the **information technology industry**. The experience will continue to guide me as I pursue my goals in the field of computer science and technology.
+The knowledge and skills I gained are meaningful and essential for my study and future career in this field. This course has enhanced my **software engineering** skills and expanded my knowledge and understanding about **information technology industry**. The experience will continue to guide me as I pursue my goals in the field of computer science and technology.
