@@ -2,22 +2,8 @@
 
 # Muhammad Azlan bin Adzmi
 
-## Objective
-My objective and goal for this course was to gain knowledge in the field of computer and technology. The knowledge taught by the lecture was very useful, helping me to understand more about the main concepts of the computer science course.
+My objective and goal for this course was to gain knowledge in the field of computer and technology. The knowledge taught by the lecture was very useful. It's  helping me to understand more about the main concepts of the computer science course. The assigned project also helped me learn about how to apply design thinking to the project development process.
 
-## Insights and Learnings
+The project helped me to explain each level of design, decision making and problem solving, with a clearer understanding of how the work goes and how design thinking can be incorporated into development. I also learned about how good teamwork helps in solving problems and improved my skills in group management. With the knowledge gained during this project it allowed me to understand the course.
 
-### Course Knowledge
-I gained a better understanding of the main concepts in computer science. The lectures provided foundational knowledge crucial for my studies.
-
-### Project Experience
-Through the project, I learned how to apply **design thinking** to the project development process. It enhanced my ability to explain each level of design, decision-making, and problem-solving. Additionally, I understood how design thinking can be effectively incorporated into development processes.
-
-### Teamwork and Group Management
-I developed better teamwork skills to solve problems collaboratively. My skills in group management and coordination also improved significantly.
-
-### Practical Application
-The assigned project helped me bridge theoretical concepts with practical applications. It gave me a clearer understanding of how projects are developed and managed.
-
-## Conclusion
-The knowledge and skills I gained are meaningful and essential for my study and future career in this field. This course has enhanced my **software engineering** skills and expanded my knowledge and understanding about **information technology industry**. The experience will continue to guide me as I pursue my goals in the field of computer science and technology.
+In conclusion, the knowledge and skills I gained are very meaningful and important in my study and career in this field. It will not only enhance my software engineering skills but also expand my knowledge and understanding of other important aspects of the information technology industry.
